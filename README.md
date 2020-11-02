@@ -18,7 +18,7 @@ An introduction to basics of React to build web-based applications.
 
 If you use the online version you can work though the workshop directly from your browser: [Start Workshop](https://codesandbox.io/s/github/eodaGmbH/workshop-react-fundamentals).
 
-> You can optionally create a free [Github](https://github.com) account to save your progress.
+> You can optionally create a free [GitHub](https://github.com) account to save your progress.
 
 ### Offline
 
@@ -27,3 +27,18 @@ To use the workshop material on your local machine you need the following comman
 - [git](https://git-scm.com/) v2.13 or greater
 - [Node.js](https://nodejs.org/) v12 or greater
 - [npm](npmjs.com) v6 or greater (Comes bundled when you install Node.js)
+
+## Additional resources
+
+Useful resources to learn more about React or to dive deeper into more complex React patterns.
+
+- [Official React Site](https://reactjs.org/)
+
+- **Learning**
+  - [The Beginner's Guide to React (Free Egghead Video tutorial)](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- **Insights** (Guides to more complex concepts)
+  - [Kent C Dodds Blog](https://kentcdodds.com/blog/) (e.g. [How to use React Context effectively
+    ](https://kentcdodds.com/blog/how-to-use-react-context-effectively), [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks))
+  - [Epic React Dev](https://epicreact.dev/articles) (Also by Kent C Dodds)
+  - [Overreacted](https://overreacted.io/) (In-depth articles by React core member Dan Abramov)
+  - [Animations with React](https://joshwcomeau.com/tutorials/react/)

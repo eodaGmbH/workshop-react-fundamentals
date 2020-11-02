@@ -15,7 +15,7 @@ import * as React from 'react';
  */
 class FirstReactComponent extends React.Component {
   render() {
-    return <div> hello World!</div>;
+    return <div>Hello World!</div>;
   }
 }
 
